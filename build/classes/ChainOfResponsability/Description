@@ -1,0 +1,3 @@
+
+El patron Chain of Responsability construye una cadenba de objetos tal que si un objeto de la cadena no puede responde a la solicitud, 
+puede transmitirla a su sucesor y asi sucesivamnete hasta que uno de los objetos  de la cadena responde.
